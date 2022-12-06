@@ -52,7 +52,7 @@ function App() {
         />
         <div>
           <Heading>Cotiza tu crypto favorta aqui</Heading>
-          <Form/>
+          <Form/> 
         </div>
       </Contenedor>
     </div>
